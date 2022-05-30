@@ -1,0 +1,167 @@
+body {
+    font-family: IBM 3270;
+    background-color: black;
+}
+
+header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 15px;
+    margin-bottom: 20px;
+}
+
+.button {
+    background-color: #36bbce;
+    color: black;
+    text-decoration: none;
+    padding: 15px;
+    font-size: 24px;
+    border-radius: 10px;
+    display: block;
+}
+.button:hover{
+    background-color: black;
+}
+nav {
+    border-top: 5px solid white;
+    border-bottom: 5px solid white;
+    padding: 25px 100px 25px 95px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.nav-link {
+    font-size: 24px;
+    color: white;
+    text-decoration: none;
+    display: block;
+}
+
+h1 {
+    text-align: center;
+    color: rgb(0, 0, 0);
+    font-size: 36px;
+    margin-top: 45px;
+    margin-bottom: 40px;
+}
+
+.post-text {
+    font-size: 24px;
+}
+
+.info {
+    display: flex;
+    flex-wrap: wrap;
+    max-width: 1100px;
+    margin: 0 auto;
+}
+
+.post {
+    background-color: white;
+    padding: 15px 45px 30px 45px;
+    width: 400px;
+    margin: 20px;
+    position: relative;
+}
+
+.article-but {
+    text-decoration: none;
+    background-color: #133aac;
+    color: white;
+    font-size: 24px;
+    text-align: center;
+    padding: 10px 75px 10px 75px;
+    display: block;
+    
+}
+.article-but:hover{
+    background-color: white;
+}
+.full-image {
+    margin: 100px 0px 100px 0px;
+}
+
+.social {
+    display: block;
+    width: 30px;
+    pos
+}
+
+footer {
+    background-color: white;
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    padding: 30px 30px 20px 45px;
+}
+.logo{
+    width: 140px;
+    height: 90px;
+}
+.apple{
+    position: relative;
+    bottom: 120px;
+    left: -180px;
+    width: 170px;
+    height: 100px;
+    margin: -150px;
+}
+.apple2{
+    position: relative;
+    bottom: 120px;
+    left: 170px;
+    width: 170px;
+    height: 100px;
+    margin: -150px;
+}
+.top{
+    color: 
+    white;
+}
+.glav{
+    color:white;
+    padding-left: 310px;
+}
+.num{
+    position:fixed;
+    width: 280px;
+    height: 170px;
+    left: 840px;
+    top: 340px;
+}
+.glav{
+    text-align: center;
+}
+h2{
+    text-shadow: 5px -5px 12px 0 rgb(44, 41, 41);
+}
+.glav{
+    text-align: center;
+}
+.nav-link{
+    text-shadow: 6px 6px 12px rgb(121, 121, 121);
+}
+.glav{
+    text-shadow: 6px 6px 12px rgb(121, 121, 121);
+}
+.top{
+    text-shadow: 6px 6px 12px rgb(121, 121, 121);
+}
+.post-img{
+    box-shadow: 6px 6px 12px rgb(121, 121, 121);
+}
+h1{
+    text-shadow: 6px 6px 12px rgb(121, 121, 121);
+}
+p{
+    text-shadow: 6px 6px 12px rgb(121, 121, 121);
+}
+.article-but{
+    box-shadow: 6px 6px 12px rgb(121, 121, 121);
+}
+.article-but:hover{
+    background-color: white;
+    box-shadow: 6px 6px 12px rgb(255, 255, 255);
+    
+}
