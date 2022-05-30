@@ -121,7 +121,7 @@ footer {
 }
 .glav{
     color:white;
-    padding-left: 310px;
+    padding-left: 610px;
 }
 .num{
     position:fixed;
@@ -129,9 +129,6 @@ footer {
     height: 170px;
     left: 840px;
     top: 340px;
-}
-.glav{
-    text-align: center;
 }
 h2{
     text-shadow: 5px -5px 12px 0 rgb(44, 41, 41);
